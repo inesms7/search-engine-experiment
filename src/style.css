@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+    border: solid 1px red;
+    font-family: 'Baloo Chettan', cursive;
+    font-weight: 26px;
+    
+}
+
+
+.wrapper{
+    margin-top: 200px;
+    height: 300px;
+    border: solid 1px black;   
+}
