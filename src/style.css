@@ -9,6 +9,34 @@ h1 {
 
 .wrapper{
     margin-top: 200px;
-    height: 300px;
-    border: solid 1px black;   
+    height: 300px;  
+}
+
+
+#search-form{
+    text-align: center;
+}
+
+#search{
+    border-radius: 20px;
+    width: 400px;
+    height: 40px;
+    border: 0.5px solid grey;
+}
+
+#search-button{
+    border-radius: 20px;
+    background-color: #000;
+    color: #fff;
+    border: none;
+    padding: 10px 20px 10px 20px;
+}
+
+#search-button:hover{
+    border-radius: 20px;
+    background-color: gray;
+    font-weight: bold;
+    color: #fff;
+    border: none;
+    padding: 10px 20px 10px 20px;
 }
